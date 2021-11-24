@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "dcd03cfa-5805-baf9-812a-ac239fd538dd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Symmetry, Structure, and Tensor Properties of Materials",
+  "course_description": "This course covers the derivation of symmetry theory; lattices, point groups, space groups, and their properties; use of symmetry in tensor representation of crystal properties, including anisotropy and representation surfaces; and applications to piezoelectricity and elasticity.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.60",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
